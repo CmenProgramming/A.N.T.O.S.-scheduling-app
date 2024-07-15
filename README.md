@@ -6,4 +6,6 @@
 This is the logo for Team Dynamo. The design features a bold, geometric pattern with black and gold elements. The central icon consists of a vertical bar flanked by two rightward-facing arrows, creating a dynamic sense of motion. The entire motif is enclosed within a diamond-shaped border, reinforcing the sense of energy and direction. The color scheme of black and gold adds a touch of elegance and strength to the logo, making it visually striking and memorable. This emblem captures the spirit of dynamism and forward momentum that the team embodies.
 
 
-![Screenshot 2024-07-11 001616](https://github.com/user-attachments/assets/582acd8c-1f2a-4315-9e36-2e45860622aa)
+![image](https://github.com/user-attachments/assets/fd464a24-67e4-436e-b5e2-cac13258e06c)
+
+
